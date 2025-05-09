@@ -21,10 +21,11 @@ location: "Santiago de Compostela, Spain 🇪🇸"
 roles:
   - DevOps Engineer
   - Cloud Engineer
-  - Former Web Developer
+  - AWS Solutions Architect
 certifications:
+  - AWS Solutions Architect Associate
   - Certified Scrum Master (Scrum Alliance)
-  - AWS Cloud Practitioner (in progress)
+  - AWS Cloud Practitioner 
 stack:
   - AWS, Terraform, Docker, GitHub Actions
   - Prometheus, Grafana, CI/CD Pipelines
