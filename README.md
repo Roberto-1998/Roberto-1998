@@ -2,7 +2,7 @@
 
 <!-- Banner o gif superior -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGx2azRsb3d5a3liMjYzMG9zN3d1MzhpMnhmcXN6ZXkwbDR6d3ZxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5xtDarzqCljPS3TqCRq/giphy.gif" width="600"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRtd2lsaHZteDh2dXh4MXU0OGtwOWhsNndneWdzYmd3dGRneGMxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="600"/>
 </p>
 
 # 🌩️ DevOps & Cloud Engineering Portfolio
