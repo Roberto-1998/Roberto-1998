@@ -59,7 +59,7 @@ stack:
 | [Monitoring Stack](https://github.com/yourusername/monitoring-prometheus-grafana) | Full monitoring setup for Dockerized apps with custom dashboards. | Prometheus, Grafana, Docker |
 | [Scalable Web Server with Docker](https://github.com/yourusername/docker-nginx-loadbalancer) | Multi-container architecture with reverse proxy. | Docker, Nginx, Flask |
 
-![infra gif](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![infra gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVsczNqdzNtOWliamxtNGdzZGx4NnA3cmljcjA1YWtpc3VoYXBzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif)
 
 ---
 
