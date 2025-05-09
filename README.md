@@ -1,30 +1,66 @@
-
-
-
-<h1 align="center">Hi 👋, I'm Roberto Castellón</h1>
-<h3 align="center">Industrial Engineer | Full Stack Developer💻 | Passionate about programming</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roberto-1998&label=Profile%20views&color=0e75b6&style=flat" alt="roberto-1998" /> </p>
-
-- 🌱 I’m currently specializing with **React, React Native, Nodejs, Express and MongoDB**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-kappa-rouge-53.vercel.app/](https://portfolio-kappa-rouge-53.vercel.app/)
-
-- 💬 Ask me about **Mobile Development, Web Development, MERN Stack**
-
-- 📫 How to reach me **rcastellon98@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/roberto-castellón-garcía-3261ba190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roberto-castellón-garcía-3261ba190" height="30" width="40" /></a>
+<!-- Banner o gif superior -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGx2azRsb3d5a3liMjYzMG9zN3d1MzhpMnhmcXN6ZXkwbDR6d3ZxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5xtDarzqCljPS3TqCRq/giphy.gif" width="600"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+# 🌩️ DevOps & Cloud Engineering Portfolio
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roberto-1998&show_icons=true&locale=en&layout=compact" alt="roberto-1998" /></p>
+Welcome to my GitHub portfolio!  
+I'm a **DevOps Engineer** and aspiring **Cloud Architect**, passionate about automation, cloud infrastructure, and building scalable, production-ready solutions.  
+With a strong foundation in **web development**, I bring both developer empathy and operational excellence to every project.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roberto-1998&" alt="roberto-1998" /></p>
+---
 
+## 🧑‍🚀 About Me
+
+```yaml
+name: "Your Name"
+location: "Santiago de Compostela, Spain 🇪🇸"
+roles:
+  - DevOps Engineer
+  - Cloud Engineer
+  - Former Web Developer
+certifications:
+  - Certified Scrum Master (Scrum Alliance)
+  - AWS Cloud Practitioner (in progress)
+stack:
+  - AWS, Terraform, Docker, GitHub Actions
+  - Prometheus, Grafana, CI/CD Pipelines
+  - React, JavaScript, HTML, CSS
+
+
+🛠️ Toolbelt & Skills
+<div align="center"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> </div>
+
+
+🚀 Featured Projects
+🧱 DevOps & Cloud Engineering
+Project	Description	Tech Stack
+CI/CD Pipeline with GitHub Actions	Automates build, test and deploy for Node.js apps using GitHub Actions.	GitHub Actions, Node.js, Docker
+AWS Infrastructure as Code	Deploys a VPC, EC2 instances, and S3 using Terraform modules.	Terraform, AWS
+Monitoring Stack	Full monitoring setup for Dockerized apps with custom dashboards.	Prometheus, Grafana, Docker
+Scalable Web Server with Docker	Multi-container architecture with reverse proxy.	Docker, Nginx, Flask
+
+
+🌐 Web Development (Legacy Projects)
+Project	Description	Tech Stack
+React E-commerce	Online store with cart, payment gateway and product filters.	React, Context API, Stripe
+Blog with Next.js	Static and dynamic blog system using Markdown.	Next.js, MDX
+Landing Page	Responsive single-page layout with smooth animations.	HTML5, CSS3, JS
+
+
+📸 Highlights
+🧠 Designed CI/CD pipelines from scratch using GitHub Actions.
+
+🌩️ Provisioned full-stack AWS environments using Terraform.
+
+📊 Built observability dashboards with Prometheus + Grafana.
+
+🤝 Collaborated with agile teams using Scrum methodology.
+
+✨ Bridging Dev and Ops with strong coding background.
+
+📫 Let’s Connect
+<p align="center"> <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a> <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
+🔄 This portfolio is constantly evolving with new DevOps and cloud projects.
+Stay tuned for more automation, infrastructure, and scalability magic!
