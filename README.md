@@ -60,7 +60,7 @@ stack:
 | [Scalable Web Server with Docker](https://github.com/yourusername/docker-nginx-loadbalancer) | Multi-container architecture with reverse proxy. | Docker, Nginx, Flask |
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="GIF divertido">
+  <img src="[https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVsczNqdzNtOWliamxtNGdzZGx4NnA3cmljcjA1YWtpc3VoYXBzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif)" alt="GIF divertido">
 </p>
 ---
 
