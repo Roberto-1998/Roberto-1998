@@ -2,7 +2,8 @@
 
 <!-- Banner o gif superior -->
 <p align="center">
-  <img src="https://wallpaperaccess.com/full/2648957.jpg" />
+  <img src="https://wallpaperaccess.com/full/2648926.png" />
+ <!-- <img src="https://wallpaperaccess.com/full/2648957.jpg" />-->
 </p>
 
 # 🌩️ DevOps & Cloud Engineering Portfolio
