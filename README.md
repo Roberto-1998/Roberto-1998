@@ -67,10 +67,9 @@ stack:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [React E-commerce](https://github.com/yourusername/ecommerce-react) | Online store with cart, payment gateway and product filters. | React, Context API, Stripe |
-| [Blog with Next.js](https://github.com/yourusername/blog-nextjs) | Static and dynamic blog system using Markdown. | Next.js, MDX |
-| [Landing Page](https://github.com/yourusername/landing-page) | Responsive single-page layout with smooth animations. | HTML5, CSS3, JS |
-
+| [Web Developer Portfolio]([https://github.com/yourusername/ecommerce-react](https://github.com/Roberto-1998/portfolio)) | My Personal Portfolio with web development projects | React, JavaScript, Threejs, TailwindCSS |
+| [Techlines Ecommerce]([https://github.com/yourusername/landing-page](https://github.com/Roberto-1998/techlines)) | Complete Ecommerce using MERN stack | React, Redux Toolkit, Nodejs, Express, MongoDB |
+| [Beach Resort]([https://github.com/yourusername/blog-nextjs](https://github.com/Roberto-1998/beach_resort)) |Beach Resort Website that show available rooms and allow to filter them according to they characteristics. | Reactjs, React Hooks, Javascript |
 
 ---
 
