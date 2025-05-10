@@ -67,9 +67,9 @@ stack:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Web Developer Portfolio]([https://github.com/yourusername/ecommerce-react](https://github.com/Roberto-1998/portfolio)) | My Personal Portfolio with web development projects | React, JavaScript, Threejs, TailwindCSS |
-| [Techlines Ecommerce]([https://github.com/yourusername/landing-page](https://github.com/Roberto-1998/techlines)) | Complete Ecommerce using MERN stack | React, Redux Toolkit, Nodejs, Express, MongoDB |
-| [Beach Resort]([https://github.com/yourusername/blog-nextjs](https://github.com/Roberto-1998/beach_resort)) |Beach Resort Website that show available rooms and allow to filter them according to they characteristics. | Reactjs, React Hooks, Javascript |
+| [Web Developer Portfolio](https://github.com/Roberto-1998/portfolio) | A personal portfolio featuring my web development projects | React, JavaScript, Threejs, TailwindCSS |
+| [Techlines Ecommerce](https://github.com/Roberto-1998/techlines) | Complete Ecommerce using MERN stack | React, Redux Toolkit, Nodejs, Express, MongoDB |
+| [Beach Resort](https://github.com/Roberto-1998/beach_resort) | Beach Resort Website that show available rooms and allow to filter them according to they characteristics. | Reactjs, React Hooks, Javascript |
 
 ---
 
