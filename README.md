@@ -71,7 +71,6 @@ stack:
 | [Blog with Next.js](https://github.com/yourusername/blog-nextjs) | Static and dynamic blog system using Markdown. | Next.js, MDX |
 | [Landing Page](https://github.com/yourusername/landing-page) | Responsive single-page layout with smooth animations. | HTML5, CSS3, JS |
 
-![web screenshot](https://user-images.githubusercontent.com/yourusername/screenshots/project-example.png)
 
 ---
 
