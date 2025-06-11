@@ -29,7 +29,7 @@ certifications:
   - AWS Cloud Practitioner 
 stack:
   - AWS, Terraform, Docker, GitHub Actions
-  - Prometheus, Grafana, CI/CD Pipelines
+  - CI/CD Pipelines
   - React, JavaScript, HTML, CSS
 ```
 
