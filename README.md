@@ -52,10 +52,9 @@ stack:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [CI/CD Pipeline with GitHub Actions](https://github.com/yourusername/ci-cd-pipeline) | Automates build, test and deploy for Node.js apps using GitHub Actions. | GitHub Actions, Node.js, Docker |
-| [AWS Infrastructure as Code](https://github.com/yourusername/terraform-aws-infra) | Deploys a VPC, EC2 instances, and S3 using Terraform modules. | Terraform, AWS |
-| [Monitoring Stack](https://github.com/yourusername/monitoring-prometheus-grafana) | Full monitoring setup for Dockerized apps with custom dashboards. | Prometheus, Grafana, Docker |
-| [Scalable Web Server with Docker](https://github.com/yourusername/docker-nginx-loadbalancer) | Multi-container architecture with reverse proxy. | Docker, Nginx, Flask |
+| [Terraform AWS VProfile App Infrastructure](https://github.com/Roberto-1998/terraform_aws_vprofile-app) | Terraform code to provision the VProfile application infrastructure on AWS. | Terraform, Beanstalk, VPC |
+| [Multi-Tier Containerized Architecture](https://github.com/Roberto-1998/multi_tier_containerization) |  Architecture using containerization and virtualization technologies. | Docker, Vagrant, Shell |
+| [Multi-Tier Web Application Infrastructure with Vagrant](https://github.com/Roberto-1998/multi_tier_webapp) | Multi-tier architecture using Vagrant and VirtualBox. | Vagrant, VirtualBox, Shell |
 
 ---
 
