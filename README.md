@@ -2,7 +2,7 @@
 
 <!-- Banner o gif superior -->
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2018/02/12/13/58/devops-3148393_1280.png" width="800"  />
+  <img src="https://cdn.pixabay.com/photo/2018/02/12/13/58/devops-3148393_1280.png" width="700"  />
  <!-- <img src="https://wallpaperaccess.com/full/2648957.jpg" />-->
 </p>
 
