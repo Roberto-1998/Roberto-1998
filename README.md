@@ -72,7 +72,6 @@ stack:
 
 - 🧠 Designed CI/CD pipelines from scratch using GitHub Actions.
 - 🌩️ Provisioned full-stack AWS environments using Terraform.
-- 📊 Built observability dashboards with Prometheus + Grafana.
 - 🤝 Collaborated with agile teams using Scrum methodology.
 - ✨ Bridging Dev and Ops with strong coding background.
 
