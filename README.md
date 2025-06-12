@@ -9,7 +9,7 @@
 # 🌩️ DevOps & Cloud Engineering Portfolio
 
 Welcome to my GitHub portfolio!  
-I'm a **DevOps Engineer** and aspiring **Cloud Architect**, passionate about automation, cloud infrastructure, and building scalable, production-ready solutions.  
+I'm a **DevOps Engineer** passionate about automation, cloud infrastructure, and building scalable, production-ready solutions.  
 With a strong foundation in **web development**, I bring both developer empathy and operational excellence to every project.
 
 ---
@@ -24,9 +24,10 @@ roles:
   - Cloud Engineer
   - AWS Solutions Architect
 certifications:
+  - HashiCorp Certified: Terraform Associate (003)
   - AWS Solutions Architect Associate
-  - Certified Scrum Master (Scrum Alliance)
   - AWS Cloud Practitioner 
+  - Certified Scrum Master (Scrum Alliance)
 stack:
   - AWS, Terraform, Docker, GitHub Actions
   - CI/CD Pipelines
