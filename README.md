@@ -24,7 +24,7 @@ roles:
   - Cloud Engineer
   - AWS Solutions Architect
 certifications:
-  - HashiCorp Certified: Terraform Associate (003)
+  - HashiCorp Certified Terraform Associate (003)
   - AWS Solutions Architect Associate
   - AWS Cloud Practitioner 
   - Certified Scrum Master (Scrum Alliance)
