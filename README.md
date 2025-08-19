@@ -53,6 +53,9 @@ stack:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+| [Jenkins CI Pipeline Demo App](https://github.com/Roberto-1998/jenkins_ci_pipeline_demo_app) | Continuous Integration (CI) pipeline for a Java Maven application using Jenkins, Nexus, SonarQube, and Slack. | Jenkins |
+| [Terraform AWS Jenkins Pipeline Infrastructure](https://github.com/Roberto-1998/terraform_aws_ci_jenkins_servers) | The infrastructure consists of three main servers: Jenkins, Nexus, and SonarQube. | Terraform, AWS, IaC |
+| [Terraform AWS Labs](https://github.com/Roberto-1998/terraform_aws_labs) | Collection of hands-on Terraform labs focused on provisioning AWS resources. | Terraform, AWS, IaC |
 | [Terraform AWS VProfile App Infrastructure](https://github.com/Roberto-1998/terraform_aws_vprofile-app) | Terraform code to provision the VProfile application infrastructure on AWS. | Terraform, Beanstalk, VPC |
 | [Multi-Tier Containerized Architecture](https://github.com/Roberto-1998/multi_tier_containerization) |  Architecture using containerization and virtualization technologies. | Docker, Vagrant, Shell |
 | [Multi-Tier Web Application Infrastructure with Vagrant](https://github.com/Roberto-1998/multi_tier_webapp) | Multi-tier architecture using Vagrant and VirtualBox. | Vagrant, VirtualBox, Shell |
