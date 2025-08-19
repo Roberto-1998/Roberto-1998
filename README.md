@@ -29,8 +29,8 @@ certifications:
   - AWS Cloud Practitioner 
   - Certified Scrum Master (Scrum Alliance)
 stack:
-  - AWS, Terraform, Docker, GitHub Actions
-  - CI/CD Pipelines
+  - AWS, Terraform, Docker, Kubernetes
+  - CI/CD Pipelines, Jenkins, Github Actions
   - React, JavaScript, HTML, CSS
 ```
 
