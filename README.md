@@ -53,6 +53,7 @@ stack:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+| [Kubernetes VProfile Application](https://github.com/Roberto-1998/kubernetes_vprofileapp) | Deployment of the VProfile application on a production-grade Kubernetes cluster provisioned using kOps. | Kubernetes, Docker, AWS |
 | [CI/CD Pipeline for Spring Petclinic Application](https://github.com/Roberto-1998/jenkins_ci_cd_petclinic_app) | Complete CI/CD pipeline for a sample Java project. | Jenkins, Docker, AWS, ECR, ECS |
 | [Jenkins CI Pipeline Demo App](https://github.com/Roberto-1998/jenkins_ci_pipeline_demo_app) | Continuous Integration (CI) pipeline for a Java Maven application using Jenkins, Nexus, SonarQube, and Slack. | Jenkins |
 | [Terraform AWS Jenkins Pipeline Infrastructure](https://github.com/Roberto-1998/terraform_aws_ci_jenkins_servers) | The infrastructure consists of three main servers: Jenkins, Nexus, and SonarQube. | Terraform, AWS, IaC |
