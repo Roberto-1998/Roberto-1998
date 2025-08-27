@@ -75,11 +75,11 @@ stack:
 ---
 
 ## 📸 Highlights
-
-- 🧠 Designed CI/CD pipelines from scratch using GitHub Actions.
-- 🌩️ Provisioned full-stack AWS environments using Terraform.
-- 🤝 Collaborated with agile teams using Scrum methodology.
-- ✨ Bridging Dev and Ops with strong coding background.
+- ✅ Cloud & Infraestructura: AWS, Terraform, VirtualBox
+- ✅ Automatización & Configuración: Ansible, Bash scripting, Python, Linux 
+- ✅ CI/CD & DevOps Tools: GitHub Actions, Jenkins
+- ✅ Contenedores & Orquestación: Docker & Docker Compose, Kubernetes 
+- ✅ Metodologías Ágiles: Scrum, Kanban, Jira
 
 ---
 
