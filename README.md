@@ -53,6 +53,7 @@ stack:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+| [CI/CD Pipeline for MERN Application](https://github.com/Roberto-1998/jenkins_ci_cd_mern_app) | Complete DevOps CI/CD pipeline for a real-world MERN stack application. | Kubernetes, Helm, Docker, AWS, Jenkins, kOps, Terraform, Ansible  |
 | [Kubernetes VProfile Application](https://github.com/Roberto-1998/kubernetes_vprofileapp) | Deployment of the VProfile application on a production-grade Kubernetes cluster provisioned using kOps. | Kubernetes, Docker, AWS |
 | [CI/CD Pipeline for Spring Petclinic Application](https://github.com/Roberto-1998/jenkins_ci_cd_petclinic_app) | Complete CI/CD pipeline for a sample Java project. | Jenkins, Docker, AWS, ECR, ECS |
 | [Jenkins CI Pipeline Demo App](https://github.com/Roberto-1998/jenkins_ci_pipeline_demo_app) | Continuous Integration (CI) pipeline for a Java Maven application using Jenkins, Nexus, SonarQube, and Slack. | Jenkins |
